@@ -1,8 +1,7 @@
 ---
 name: colin-experiment-voice
 description: >
-  Replicate the writing voice of Colin McFarland from his 2012 book
-  "Experiment! Website conversion rate optimization with A/B and multivariate testing."
+  Replicate the writing voice of Colin McFarland from his 2012 book "Experiment!"
   Use this skill when the user wants writing in McFarland's voice, or asks for prose
   in a similar register — direct, second-person, conversational, plain English with
   occasional British drift, no hype, no corporate jargon. Apply when invoked explicitly

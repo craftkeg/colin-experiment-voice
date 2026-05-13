@@ -1,6 +1,6 @@
 # colin-experiment-voice
 
-A markdown skill file for replicating the writing voice of Colin McFarland from his 2012 book *Experiment! Website conversion rate optimization with A/B and multivariate testing*.
+A markdown skill file for replicating the writing voice of Colin McFarland from his 2012 book *Experiment!*
 
 ## What it is
 
