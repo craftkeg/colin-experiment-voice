@@ -21,17 +21,13 @@ Trigger phrases: "in McFarland's voice", "Experiment! voice", "in the voice of E
 
 ## What's inside
 
-| Section | What it covers |
-|---|---|
-| **The voice in one paragraph** | Quick summary of the register |
-| **Calibration data** | Sentence length, contraction rate, "you" density, etc. |
-| **Core moves** | 12 documented patterns with book examples |
-| **Signature phrases** | Openers, transitions, closers |
-| **Diction & syntax rules** | Do / Don't lists |
-| **What the voice is NOT** | Guard rails against common misreadings |
-| **Worked example** | Corporate-flat → Colin's voice, with annotations |
-| **Common failure modes** | 7 ways the voice goes wrong |
-| **Invocation pattern** | Step-by-step process for writing in voice |
+The skill file isn't a vibe description. It's a quantified reference built from full-book analysis — 23,600 words of prose, 1,070 sentences, ten chapters.
+
+- **Calibration data.** Sentence length distributions, contraction density (22.2 per 1,000 words), second-person frequency (30.7 "you" per 1,000 words), em-dash and question rates. Numbers you can measure your output against.
+- **12 core moves.** Each one documented with genuine book examples — second-person coaching, the "you might think X, but Y" redirect, the fallback move, fragment closers, concrete worked examples with numbers. Not "write conversationally" — specific, replicable patterns.
+- **Diction rules.** What to use (contractions, imperatives, British spelling drift) and what to kill ("leverage," "transformative," "best-in-class," adjective pileups, throat-clearing openers).
+- **A full worked example.** 270 words of corporate-flat prose rewritten to 175 in Colin's voice, with line-by-line annotations explaining what changed and why.
+- **7 failure modes.** The ways the voice goes wrong — over-stylizing, stacking imperatives, losing concrete examples, drifting across iterations. The guardrails matter as much as the rules.
 
 ## License
 
